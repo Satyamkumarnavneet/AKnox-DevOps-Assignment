@@ -29,7 +29,18 @@ Before deploying the application, ensure you have the following tools installed:
 - Helm (optional, if using Helm charts)
 - GitHub CLI (for CI/CD workflows)
 
+Additionally, for local testing, you need to install the following packages:
+
+```bash
+sudo apt install fortune-mod cowsay -y
+```
+
 ## Setup and Installation
+
+### Run the Application Locally:
+First, run the wisecow.sh script: `./wisecow.sh`
+
+Then, open your browser and navigate to `http://localhost:4499/` to access the application.
 
 ### Build Docker Image
 
