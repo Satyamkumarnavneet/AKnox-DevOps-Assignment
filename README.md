@@ -1,8 +1,8 @@
-# AKnox-DevOps-Assignment
+# AccuKnox-DevOps-Assignment
 
 ## Overview
 
-This repository contains the implementation for the AKnox DevOps assignment. The main goal is to deploy a web application (`wisecow`) as a Kubernetes (k8s) application with Docker and Ingress, along with setting up GitHub Actions for continuous integration.
+This repository contains the implementation for the AccuKnox DevOps assignment. The main goal is to deploy a web application (`wisecow`) as a Kubernetes (k8s) application with Docker and Ingress, along with setting up GitHub Actions for continuous integration.
 
 ## Repository Structure
 
