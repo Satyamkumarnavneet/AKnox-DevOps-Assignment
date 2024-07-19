@@ -44,7 +44,7 @@ docker build -t wisecow:latest .
 ```bash
 kubectl create secret tls wisecow-tls --cert=tls.crt --key=tls.key
 ```
-2. Apply Kubernetes Manifests:
+2. Apply Kubernetes Manifests
 3. Deploy the application using the following commands:
 ```
 kubectl apply -f deployment.yaml
