@@ -10,7 +10,7 @@ This repository contains the implementation for the AKnox DevOps assignment. The
 - `Problem-Statement-2/` - Contains the solution for Problem 2, including implementation and related files.
 - `Screenshots/` - Contains screenshots for validation output.
 - `.DS_Store` - MacOS system file, not relevant for the project.
-- `App.log` - Log file from the application.
+- `App.log` - Log file for testing.
 - `Dockerfile` - Dockerfile for building the `wisecow` application image.
 - `README.md` - This README file.
 - `deployment.yaml` - Kubernetes Deployment manifest for deploying the `wisecow` application.
