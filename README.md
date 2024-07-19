@@ -26,7 +26,6 @@ Before deploying the application, ensure you have the following tools installed:
 
 - Docker
 - Kubernetes (kubectl)
-- Helm (optional, if using Helm charts)
 - GitHub CLI (for CI/CD workflows)
 
 Additionally, for local testing, you need to install the following packages:
