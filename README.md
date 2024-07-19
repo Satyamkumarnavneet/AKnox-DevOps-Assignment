@@ -62,6 +62,6 @@ Access the application at `http://localhost:4499/`.
 2. Ingress Access: If using a domain or local host configured in Ingress, access the application via the configured hostname.
 
 ## Contact
-For any questions or issues, please contact Satyam Kumar Navneet at navneetsatyamkumar@gmail.com.
+For any questions or issues, please contact me at navneetsatyamkumar@gmail.com.
 
 
